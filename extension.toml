@@ -1,0 +1,7 @@
+id = "nox-theme"
+name = "Nox Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Łukasz Wokacz"]
+description = ""
+repository = "https://github.com/wokacz/nox-zed-theme"
